@@ -1,13 +1,12 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
+﻿
+
+
+    internal class calculoArea
     {
-        // Usar el método CalcularAreaCirculo desde CalculosMatematicos
-        Console.Write("Introduce el radio del círculo: ");
-        double radio = Convert.ToDouble(Console.ReadLine());
-
-        double area = CalculosMatematicos.CalcularAreaCirculo(radio);
-
-        Console.WriteLine("El área del círculo con radio {0} es: {1}", radio, area);
+        public static void calculoArea(double r, double pi)
+        {
+            double area = pi * r * r;
+            Console.WriteLine("El área del círculo es {0}", area);
+        }
     }
-}
+
