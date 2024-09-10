@@ -1,6 +1,4 @@
 ﻿
-
-
     internal class calculoArea
     {
         public static void calculoArea(double r, double pi)

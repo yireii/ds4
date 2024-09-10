@@ -12,7 +12,6 @@
 
         calculoPerim(a, b);
     }
-
     private static void calculoPerim(int a, int b)
     {
         double resp = a + b + a + b;
