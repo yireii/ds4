@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5", "Laboratorio 5\Laboratorio 5.csproj", "{A56BD0C3-CE06-4B5D-BC28-13BFEAFD499C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.1", "Laboratorio 5.1\Laboratorio 5.1.csproj", "{247A9392-96E8-48BD-BD60-F592E1C6DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.2", "Laboratorio 5.2\Laboratorio 5.2.csproj", "{1445687C-0C5D-4C4F-9F2B-98501FAE7E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.3", "Laboratorio 5.3\Laboratorio 5.3.csproj", "{DE9A3318-E472-45A9-BD2B-D37E0BB75072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.4", "Laboratorio 5.4\Laboratorio 5.4.csproj", "{D746E5E0-68A9-4A45-8AEC-815FCC077A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.5", "Laboratorio 5.5\Laboratorio 5.5.csproj", "{906778EE-3FDF-4721-89DE-230FC9F21017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5.6", "Laboratorio 5.6\Laboratorio 5.6.csproj", "{24274B19-6D37-4B1F-8DBE-616E735D6D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56BD0C3-CE06-4B5D-BC28-13BFEAFD499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56BD0C3-CE06-4B5D-BC28-13BFEAFD499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56BD0C3-CE06-4B5D-BC28-13BFEAFD499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56BD0C3-CE06-4B5D-BC28-13BFEAFD499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247A9392-96E8-48BD-BD60-F592E1C6DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247A9392-96E8-48BD-BD60-F592E1C6DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247A9392-96E8-48BD-BD60-F592E1C6DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247A9392-96E8-48BD-BD60-F592E1C6DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1445687C-0C5D-4C4F-9F2B-98501FAE7E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445687C-0C5D-4C4F-9F2B-98501FAE7E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445687C-0C5D-4C4F-9F2B-98501FAE7E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445687C-0C5D-4C4F-9F2B-98501FAE7E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9A3318-E472-45A9-BD2B-D37E0BB75072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9A3318-E472-45A9-BD2B-D37E0BB75072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9A3318-E472-45A9-BD2B-D37E0BB75072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9A3318-E472-45A9-BD2B-D37E0BB75072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D746E5E0-68A9-4A45-8AEC-815FCC077A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D746E5E0-68A9-4A45-8AEC-815FCC077A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D746E5E0-68A9-4A45-8AEC-815FCC077A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D746E5E0-68A9-4A45-8AEC-815FCC077A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906778EE-3FDF-4721-89DE-230FC9F21017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906778EE-3FDF-4721-89DE-230FC9F21017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906778EE-3FDF-4721-89DE-230FC9F21017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906778EE-3FDF-4721-89DE-230FC9F21017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24274B19-6D37-4B1F-8DBE-616E735D6D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24274B19-6D37-4B1F-8DBE-616E735D6D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24274B19-6D37-4B1F-8DBE-616E735D6D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24274B19-6D37-4B1F-8DBE-616E735D6D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F4B23C-FA2C-468C-A1C3-A1C1C57791D3}
+	EndGlobalSection
+EndGlobal
