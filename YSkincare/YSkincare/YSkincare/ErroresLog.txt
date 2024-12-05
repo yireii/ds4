@@ -1,0 +1,261 @@
+12/1/2024 9:58:05 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 52
+12/1/2024 9:58:10 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 52
+12/1/2024 9:58:16 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 52
+12/1/2024 10:01:12 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 68
+12/1/2024 10:04:34 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 68
+12/1/2024 10:04:52 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.Recomendaciones.Page_Load(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\Recomendaciones.aspx.cs:line 27
+12/1/2024 10:12:44 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 67
+12/1/2024 10:12:44 AM: Error: Error al procesar la selección: Thread was being aborted.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Thread was being aborted.
+User IP: ::1
+12/1/2024 10:12:54 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 67
+12/1/2024 10:12:54 AM: Error: Error al procesar la selección: Thread was being aborted.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Thread was being aborted.
+User IP: ::1
+12/1/2024 10:12:57 AM: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) in D:\Documents\Curriculum\Greg\DevCodes\C#\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:line 67
+12/1/2024 10:12:57 AM: Error: Error al procesar la selección: Thread was being aborted.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Thread was being aborted.
+User IP: ::1
+12/01/2024 7:52:43 p. m.: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/01/2024 7:52:43 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+User IP: ::1
+12/01/2024 8:41:26 p. m.: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/01/2024 8:41:26 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+User IP: ::1
+12/01/2024 9:18:04 p. m.: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/01/2024 9:18:04 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+User IP: ::1
+12/02/2024 6:18:07 p. m.: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:18:07 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+User IP: ::1
+12/02/2024 6:25:19 p. m.: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:25:19 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name %27TiposDePiel%27.
+User IP: ::1
+12/02/2024 6:41:17 p. m.: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:41:17 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name %27TiposDePiel%27.
+User IP: ::1
+12/02/2024 6:43:50 p. m.: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:43:50 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name %27TiposDePiel%27.
+User IP: ::1
+12/02/2024 6:47:23 p. m.: Error al conectar a la base de datos o realizar la consulta: Se agotó el tiempo de espera de ejecución. El período de tiempo de espera transcurrió antes de la finalización de la operación o el servidor no responde.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:47:23 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Se agotó el tiempo de espera de ejecución. El período de tiempo de espera transcurrió antes de la finalización de la operación o el servidor no responde.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Se agotó el tiempo de espera de ejecución. El período de tiempo de espera transcurrió antes de la finalización de la operación o el servidor no responde.
+User IP: ::1
+12/02/2024 6:52:36 p. m.: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 6:52:36 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name 'TiposDePiel'.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Invalid object name %27TiposDePiel%27.
+User IP: ::1
+12/02/2024 7:00:23 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "SkincareDB" requested by the login. The login failed.
+Login failed for user 'Joaquin\joako'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 7:03:43 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "NombreDeTuNuevaBaseDeDatos" requested by the login. The login failed.
+Login failed for user 'Joaquin\joako'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 7:05:35 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "NombreDeTuNuevaBaseDeDatos" requested by the login. The login failed.
+Login failed for user 'Joaquin\joako'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 55
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 20
+12/02/2024 7:07:18 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "NombreDeTuNuevaBaseDeDatos" requested by the login. The login failed.
+Login failed for user 'Joaquin\joako'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 53
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/02/2024 7:08:30 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnContinuar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 67
+12/02/2024 7:08:30 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 7:12:01 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 62
+12/02/2024 7:12:02 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 8:59:31 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 62
+12/02/2024 8:59:31 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 9:04:39 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 62
+12/02/2024 9:04:39 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 10:05:04 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 64
+12/02/2024 10:05:04 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 10:44:20 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 64
+12/02/2024 10:44:20 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 10:50:54 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 65
+12/02/2024 10:50:55 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 10:53:03 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "NombreDeTuNuevaBaseDeDatos" requested by the login. The login failed.
+Login failed for user 'Joaquin\joako'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 52
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/02/2024 10:53:31 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 65
+12/02/2024 10:53:31 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 10:55:03 p. m.: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.btnSeleccionar_Click(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 65
+12/02/2024 10:55:03 p. m.: Error: Error al procesar la selección: Subproceso anulado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al procesar la selección: Subproceso anulado.
+User IP: ::1
+12/02/2024 11:19:57 p. m.: Error: Ha ocurrido un error inesperado. Por favor, intente de nuevo más tarde.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx
+User IP: ::1
+12/02/2024 11:30:32 p. m.: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 52
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/02/2024 11:30:32 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+User IP: ::1
+12/02/2024 11:31:27 p. m.: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=12; protocolo de enlace=12055; 
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 52
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/02/2024 11:31:28 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=12; protocolo de enlace=12055;
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=12; protocolo de enlace=12055;
+User IP: ::1
+12/02/2024 11:33:23 p. m.: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=16; protocolo de enlace=14984; 
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 52
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\joako\source\repos\ds4\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/02/2024 11:33:23 p. m.: Error: Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=16; protocolo de enlace=14984;
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=Error al cargar los tipos de piel: Error al conectar a la base de datos o realizar la consulta: Valor de tiempo de espera caducado. El periodo de tiempo de espera se agotó al intentar consumir la confirmación del protocolo de enlace previo al inicio de sesión. El motivo podría ser que se produjo un error en el protocolo de enlace o que el servidor no pudo responder a tiempo.  El tiempo invertido al intentar conectarse a este servidor fue: [Previo al inicio de sesión] inicialización=16; protocolo de enlace=14984;
+User IP: ::1
+12/03/2024 7:54:33 p. m.: Error al conectar a la base de datos o realizar la consulta: Cannot open database "YSkinCare" requested by the login. The login failed.
+Login failed for user 'DESKTOP-FT3VKH7\josei'.
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.CargarTiposDePiel() en C:\Users\josei\Downloads\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 52
+   en YSkincare.Aspx__Front_.SeleccionTipoPiel.Page_Load(Object sender, EventArgs e) en C:\Users\josei\Downloads\YSkincare\Aspx (Front)\SeleccionTipoPiel.aspx.cs:línea 18
+12/03/2024 10:40:48 p. m.: Error: ID de tipo de piel no especificado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado.
+User IP: ::1
+12/03/2024 10:41:31 p. m.: Error: ID de tipo de piel no especificado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado.
+User IP: ::1
+12/03/2024 10:42:40 p. m.: Error: ID de tipo de piel no especificado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado.
+User IP: ::1
+12/03/2024 10:44:19 p. m.: Error: ID de tipo de piel no especificado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado.
+User IP: ::1
+12/03/2024 11:33:20 p. m.: Error: ID de tipo de piel no especificado.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado.
+User IP: ::1
+12/04/2024 6:18:44 p. m.: Error: ID de tipo de piel no especificado o inválido.
+Request URL: https://localhost:44385/Aspx (Front)/Error.aspx?msg=ID de tipo de piel no especificado o inválido.
+User IP: ::1
